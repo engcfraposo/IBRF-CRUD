@@ -11,7 +11,7 @@ document
         //alert(JSON.stringify({id, name, price}, null, 2))
         const product = { id, name, price };
         if(id){
-            await updateProduct(product);
+            //await updateProduct(product);
         } else {
             await createProduct(product);
         }
