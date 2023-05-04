@@ -3,17 +3,12 @@
     {
       "id": 1,
       "name": "Teste",
-      "price": "0.01"
+      "price": "0.04"
     },
     {
       "id": 2,
       "name": "Teste2",
-      "price": "0.02"
-    },
-    {
-      "id": 3,
-      "name": "teste3",
-      "price": "0.03"
+      "price": "0.04"
     }
   ]
 }
